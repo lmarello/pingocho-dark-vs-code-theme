@@ -19,3 +19,37 @@
     ]
   }
 }
+
+
+{
+  "name": "pingocho-dark",
+  "displayName": "Pingocho Dark",
+  "description": "A modern and eye-friendly dark theme for Visual Studio Code.",
+  "version": "1.0.0",
+  "publisher": "Leo Marello",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pingocho Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pingocho-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lmarello/pingocho-dark-vs-code-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "vscode",
+    "syntax highlighting",
+    "minimal"
+  ],
+  "license": "MIT"
+}
