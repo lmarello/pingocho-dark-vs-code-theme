@@ -30,6 +30,6 @@
     "syntax highlighting",
     "minimal"
   ],
-  "icon": "./themes/icon.png",
+  "icon": "./themes/icon-new.png",
   "license": "MIT"
 }
