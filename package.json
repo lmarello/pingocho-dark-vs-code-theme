@@ -2,7 +2,7 @@
   "name": "pingocho-dark",
   "displayName": "Pingocho Dark",
   "description": "A modern and eye-friendly dark theme for Visual Studio Code.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "pingocho",
   "engines": {
     "vscode": "^1.70.0"
