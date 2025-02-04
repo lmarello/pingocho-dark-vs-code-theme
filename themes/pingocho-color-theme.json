@@ -531,7 +531,7 @@
       "name": "Keywords",
       "scope": "keyword",
       "settings": {
-        "foreground": "#d9c6a0"
+        "foreground": "#e6c789"
       }
     },
     {
@@ -1772,7 +1772,7 @@
     "list.hoverForeground": "#cccccc",
     "list.activeSelectionBackground": "#252932f1",
     "list.activeSelectionForeground": "#e4e4e4",
-    "tree.indentGuidesStroke": "#585858",
+    "tree.indentGuidesStroke": "#121419",
     "list.dropBackground": "#383b3d",
     "list.highlightForeground": "#f5cb8a",
     "list.focusBackground": "#252932f1",
